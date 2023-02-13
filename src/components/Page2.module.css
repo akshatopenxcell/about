@@ -1,0 +1,200 @@
+.heading {
+
+    width: 768px;
+    height: 48px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48px;
+
+    text-align: center;
+
+    color: #1C2C44;
+    align-items: center;
+
+    margin-top: 250px;
+    margin-left: 330px;
+}
+
+
+.content1 {
+
+    width: 936px;
+    height: 84px;
+
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+
+    text-align: center;
+
+    color: #687C95;
+    margin-left: 252px;
+}
+
+
+.problem1heading {
+    width: 384px;
+    height: 30px;
+
+    /* H5 */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 30px;
+    /* identical to box height, or 115% */
+
+    text-align: center;
+
+    /* Dark Blue */
+
+    color: #1C2C44;
+    margin-top: 20px;
+}
+
+
+.problem1content {
+    width: 384px;
+    height: 72px;
+
+    /* p 16px */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+
+    text-align: center;
+
+    /* paragraph */
+
+    color: #687C95;
+
+}
+
+.problem2content {
+    width: 384px;
+    height: 72px;
+
+    /* p 16px */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+
+    text-align: center;
+
+    /* paragraph */
+
+    color: #687C95;
+}
+
+.problem3content {
+
+    width: 384px;
+    height: 72px;
+
+    /* p 16px */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+
+    text-align: center;
+
+    /* paragraph */
+
+    color: #687C95;
+
+}
+
+
+.electricbolticon {
+
+    margin-left: 750px;
+}
+
+
+.heading2 {
+    width: 768px;
+    height: 48px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 48px;
+
+    text-align: center;
+    letter-spacing: -0.02em;
+
+    color: #1C2C44;
+    margin-top: 40px;
+
+    margin-left: 300px;
+}
+
+.content2 {
+
+    width: 779px;
+    height: 84px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+
+    text-align: center;
+    color: #687C95;
+
+    margin-left: 300px;
+}
+
+.image3{
+
+    margin-top: 60px;
+    
+}
+
+.heading3{
+
+    width: 560px;
+    height: 144px;
+    
+    
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 38px;
+    color: #1C2C44;
+    margin-top: 150px;
+}
+
+.content3 {
+
+    width: 560px;
+    height: 140px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+
+    color: #687C95;
+    margin-top: -30px;
+}

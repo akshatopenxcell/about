@@ -1,0 +1,80 @@
+.heading1 {
+
+    width: 768px;
+    height: 44px;
+
+    font-style: normal;
+    font-weight: 450;
+    font-size: 40px;
+    line-height: 44px;
+
+    text-align: center;
+    letter-spacing: -0.02em;
+
+    color: #1C2C44;
+
+    margin-left: 270px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.headingxerotank {
+    width: 176px;
+    height: 48px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 48px;
+
+    letter-spacing: -0.02em;
+    color: #1C2C44;
+
+    margin-left: 40px;
+    margin-top: -10px;
+}
+
+.datexerotank {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 2px 6px;
+
+    width: 146px;
+    height: 28px;
+
+
+    background: #AEFFEF;
+    border-radius: 100px;
+
+    margin-left: 40px;
+    margin-top: 38px;
+}
+
+.xerotank1image {
+    
+    width: 135.1px;
+    height: 135.1px;
+    left: 0.98px;
+    top: 2.94px;
+}
+
+.sagebar1image{
+
+    width: 135.1px;
+    height: 135.1px;
+    left: 0.98px;
+    top: 2.94px;
+}
+
+.h6xerotank {
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+
+    color: #1C2C44;
+    margin-top: 30px;
+}
